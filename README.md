@@ -1,6 +1,10 @@
 # paa-valgrind
 Run valgrind into PAA exercises
 
+# Project
+
+Copy and paste content of your files from BST, DDLL and QDBST to the respective files before try to compile
+
 # Windows
 (Install WSL or Docker (with WSL) before continue)[https://learn.microsoft.com/pt-br/windows/wsl/install]
 
